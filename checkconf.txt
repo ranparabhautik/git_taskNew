@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 Helloo world!!
 color = green
-=======
-Helloo world!!
-color = green
->>>>>>> Git_Conf_1
 
